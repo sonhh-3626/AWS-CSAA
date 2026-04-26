@@ -13,3 +13,5 @@ Cách sử dụng sách của bản thân mình. Trước kia cũng từng học
 - Tạo mindmap phục vụ cho việc xem lại
 
 Thì có gì thì bản thân sẽ cập nhập bổ xung sau.
+
+# Giới thiệu về các phần nội dung học tập chính
