@@ -137,4 +137,4 @@ Các chủ đề chính:
 1. [AWS Well-Architected Framework (Official)](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 2. [AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)
 3. AWS Whitepapers — Well-Architected Framework
-4. ![[AWS Well-Architected Framework.png]]
+<img src="images/AWS Well-Architected Framework.png" alt="AWS Well-Architected Framework" width="450">
